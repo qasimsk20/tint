@@ -238,10 +238,6 @@ I'd love to expand `tint`'s theme collection! If you have a favorite theme not y
 
 ---
 
-## Contributing
-
-Contributions are always welcome! If you have ideas, bug reports, or want to submit code, please feel free to open an issue or a pull request.
-
 ## Acknowledgments
 
 This project has been inspired by the work of others in the open-source community:
@@ -252,7 +248,17 @@ This project has been inspired by the work of others in the open-source communit
 - [lighttigerXIV/catppuccinifier](https://github.com/lighttigerXIV/catppuccinifier)
 - [doprz/dipc](https://github.com/doprz/dipc)
 
-<br>
+## Contributing
+
+Contributions are always welcome! If you have ideas, bug reports, or want to submit code, please feel free to open an issue or a pull request.
+
+## Contributors
+
+<a href="https://github.com/ashish0kumar/tint/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashish0kumar/tint" />
+</a>
+
+<br><br>
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
